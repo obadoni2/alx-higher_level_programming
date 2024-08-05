@@ -1,1 +1,1 @@
-# 0x14-javascript-web_scraping   my code
+# 0x14-javascript-web_scraping   my cod
